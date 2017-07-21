@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Ruská fonetická klávesnice (české rozložení)
 
-You can use the [editor on GitHub](https://github.com/crabhi/ruska-klavesnice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Rozložení klávesnice podle Russian phonetic (Czech), která je v instalaci Ubuntu přepsaná do formátu pro MacOS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Na klávesnici jde psát latinka a speciální znaky přes pravý Alt.
 
-### Markdown
+### Instalace
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Zkopírujte soubor `russian_czech_phonetic.keylayout` do `/Library/Keyboard Layouts/` nebo do `~/Library/Keyboard Layouts/`. Druhá varianta neumožní klávesnici používat např. pro zadávání hesla, je nainstalovaná pouze pro aktuálního uživatele. 
 
-```markdown
-Syntax highlighted code block
+### Úpravy
 
-# Header 1
-## Header 2
-### Header 3
+Rozložení klávesnice můžete upravit pomocí programu [Ukelele][Ukelele]. Pokud by nefungoval odkaz, kopii programu naleznete u mě na [Githubu][crabhi-rusklav].
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crabhi/ruska-klavesnice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Ukelele]: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele
+[crabhi-rusklav]: https://github.com/crabhi/ruska-klavesnice
