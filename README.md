@@ -1,4 +1,4 @@
-## Ruská fonetická klávesnice (české rozložení)
+## Ruská fonetická klávesnice (české rozložení) pro MacOS
 
 Rozložení klávesnice podle Russian phonetic (Czech), která je v instalaci Ubuntu přepsaná do formátu pro MacOS.
 
