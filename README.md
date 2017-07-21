@@ -4,6 +4,8 @@ Rozložení klávesnice podle Russian phonetic (Czech), která je v instalaci Ub
 
 Na klávesnici jde psát latinka a speciální znaky přes pravý Alt.
 
+[![Rozložení klávesnice](layout.jpg)][klavesnice]
+
 ### Instalace
 
 Zkopírujte soubor [`russian_czech_phonetic.keylayout`][klavesnice] do `/Library/Keyboard Layouts/` nebo do `~/Library/Keyboard Layouts/`. Druhá varianta neumožní klávesnici používat např. pro zadávání hesla, je nainstalovaná pouze pro aktuálního uživatele. 
